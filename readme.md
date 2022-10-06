@@ -25,8 +25,8 @@ This is the 14th html and css responsive project among the 15 Ineuron-projects.
 
 ### Links
 
-- Code File URL: [github.com](https://github.com/Jyotimoykathar/Project-02)
-- Live Site URL: [netlify.app](https://project-02-restaurant.netlify.app/)
+- Code File URL: [github.com](https://github.com/Jyotimoykathar/Project-14-creativity)
+- Live Site URL: [netlify.app](https://project-14-creativity-website.netlify.app/)
 
 ## My process
 
